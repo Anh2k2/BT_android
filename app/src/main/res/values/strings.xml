@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">BT</string>
+    <string name="add_new_contact">ADD NEW CONTACT</string>
+    <string name="contact_s_name">Contact\'s name:</string>
+    <string name="contact_s_phone">Contact\'s phone:</string>
+    <string name="phone">Phone:</string>
+    <string name="name">Name:</string>
+    <string name="phone_">Phone</string>
+    <string name="name_">Name</string>
+    <string name="add_new_user">Add New User</string>
+</resources>
